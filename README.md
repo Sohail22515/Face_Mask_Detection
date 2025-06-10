@@ -71,7 +71,6 @@ Each folder contains images of faces either **with** or **without** masks. The i
 ---
 
 ## 🏋️ Training the Model
-    ```bash
       python train_mask_detector.py
 
 
